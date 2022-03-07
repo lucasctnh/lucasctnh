@@ -10,10 +10,10 @@ I am currently an automation engineering student based on **Brazil**. I'm very i
 <h2>⚡️ A few quick facts</h2>
 <ul>
 <li>🔭 Doing a bachelor's degree at <a href="https://ufmg.br">UFMG</a>.</li>
-<li>🧐 Learning about <strong>Unity</strong>, <strong>netcode</strong>, and a bit of <strong>design patterns</strong>.</li>
+<li>🧐 Learning about <strong>Unity</strong>, and <strong>design patterns</strong>.</li>
 <li>👨‍💻 Read more about my projects <a href="https://coutinho.codes/portfolio">here</a>.</li>
 <li>💬 Ping me about <strong>games</strong>, <strong>automation</strong>, and <strong>cloud stuff</strong>.</li>
-<li>⚡ Fun Fact: I'm a <a href="https://en.wikipedia.org/wiki/Hidetaka_Miyazaki">Miyazaki</a> fanboy (and yes,<a href="https://en.wikipedia.org/wiki/Hayao_Miyazaki"> both</a>). 😁</li>
+<li>⚡ Fun Fact: <a href="https://en.wikipedia.org/wiki/Hidetaka_Miyazaki">Miyazaki</a> fanboy (yes,<a href="https://en.wikipedia.org/wiki/Hayao_Miyazaki"> both</a>). 😁</li>
 </ul>
 
 <br>
