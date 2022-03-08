@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/lcscout/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lcscout/"></a>
 <a href="https://telegram.me/lcscout/"><img src="https://img.shields.io/badge/-Telegram-004088?style=for-the-badge&logo=telegram&logoColor=white&link=https://telegram.me/lcscout/"></a>
-<a href="mailto:lucas@coutinho.codes"><img src="https://img.shields.io/badge/-Mail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucas@coutinho.codes"></a>
+<a href="mailto:lucas@coutinho.codes"><img src="https://img.shields.io/badge/-Mail-0B2C4A?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucas@coutinho.codes"></a>
 
 I am currently an automation engineering student based on **Brazil**. I'm very interested in **software architecture** and producing **optimal code**, and I am **passionate** about creating new worlds and unique experiences through **games**. 😊
 
