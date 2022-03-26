@@ -19,7 +19,7 @@ I am currently an automation engineering student based on **Brazil**. I'm very i
 <br>
 <div align="center">
   
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcscout&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="lcscout's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@lcscout&layout=compact&theme=cobalt&hide_border=true&custom_title=Lucas Coutinho's WakaTime Stats" alt="lcscout's wakatime stats" /> |
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcscout&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="lcscout's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@lcscout&layout=compact&theme=cobalt&hide_border=true&custom_title=Lucas Coutinho's Yearly WakaTime Stats" alt="lcscout's yearly wakatime stats" /> |
   | ------------- | ------------- |
   
 </div>
