@@ -5,15 +5,14 @@
 <a href="https://telegram.me/lcscout/"><img src="https://img.shields.io/badge/-Telegram-f5e1c0?style=for-the-badge&logo=telegram&logoColor=black&link=https://telegram.me/lcscout/"></a>
 <a href="mailto:lcscoutinho@outlook.com"><img src="https://img.shields.io/badge/-Mail-d2b59f?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:lcscoutinho@outlook.com"></a>
 
-I am currently an automation engineering student based on **Brazil**. I'm very interested in **software architecture** and producing **optimal code**, and I am **passionate** about creating new worlds and unique experiences through **games**. 😊
+I'm currently a Game Developer at **Izyplay Game Studio**. I work mostly with Unity but I love to learn everything related to game dev. I'm also very interested in software architecture and producing clean code.
 
-<h2>⚡️ A few quick facts</h2>
+> Read more about my projects <a href="https://lucascoutinho.me/portfolio">on my page</a>.
+
+<h2>⚡️ Currently:</h2>
 <ul>
-<li>🔭 Doing a bachelor's degree at <a href="https://ufmg.br">UFMG</a>.</li>
-<li>🧐 Learning about <strong>Unity</strong>, and <strong>design patterns</strong>.</li>
-<li>👨‍💻 Read more about my projects <a href="https://lucascoutinho.me/portfolio">here</a>.</li>
-<li>💬 Ping me about <strong>games</strong>, <strong>automation</strong>, and <strong>cloud stuff</strong>.</li>
-<li>⚡ Fun Fact: <a href="https://en.wikipedia.org/wiki/Hidetaka_Miyazaki">Miyazaki</a> fanboy (yes,<a href="https://en.wikipedia.org/wiki/Hayao_Miyazaki"> both</a>). 😁</li>
+<li>Doing a bachelor's degree in Digital Games.</li>
+<li>Learning about <strong>Unity tooling</strong>, and <strong>game programming patterns</strong>.</li>
 </ul>
 
 <br>
