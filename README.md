@@ -1,9 +1,9 @@
 <h1>Hi there 👋 I'm <a href="https://lucascoutinho.me/">Lucas</a> </h1>
-<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" src="https://i.gifer.com/origin/60/60120cc1d020a156a8401a3a2db12c4d.gif" />
 
-<a href="https://www.linkedin.com/in/lcscout/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lcscout/"></a>
-<a href="https://telegram.me/lcscout/"><img src="https://img.shields.io/badge/-Telegram-004088?style=for-the-badge&logo=telegram&logoColor=white&link=https://telegram.me/lcscout/"></a>
-<a href="mailto:lcscoutinho@outlook.com"><img src="https://img.shields.io/badge/-Mail-0B2C4A?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lcscoutinho@outlook.com"></a>
+<a href="https://www.linkedin.com/in/lcscout/"><img src="https://img.shields.io/badge/-LinkedIn-e5dad4?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/lcscout/"></a>
+<a href="https://telegram.me/lcscout/"><img src="https://img.shields.io/badge/-Telegram-f5e1c0?style=for-the-badge&logo=telegram&logoColor=black&link=https://telegram.me/lcscout/"></a>
+<a href="mailto:lcscoutinho@outlook.com"><img src="https://img.shields.io/badge/-Mail-d2b59f?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:lcscoutinho@outlook.com"></a>
 
 I am currently an automation engineering student based on **Brazil**. I'm very interested in **software architecture** and producing **optimal code**, and I am **passionate** about creating new worlds and unique experiences through **games**. 😊
 
@@ -19,7 +19,7 @@ I am currently an automation engineering student based on **Brazil**. I'm very i
 <br>
 <div align="center">
   
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcscout&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="lcscout's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@lcscout&layout=compact&theme=cobalt&hide_border=true&custom_title=Lucas%20Coutinho%27s%20Yearly%20WakaTime%20Stats" alt="lcscout's yearly wakatime stats" /> |
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcscout&show_icons=true&include_all_commits=true&theme=moltack&hide_border=true" alt="lcscout's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@lcscout&layout=compact&theme=moltack&hide_border=true&custom_title=Lucas%20Coutinho%27s%20Yearly%20WakaTime%20Stats" alt="lcscout's yearly wakatime stats" /> |
   | ------------- | ------------- |
   
 </div>
