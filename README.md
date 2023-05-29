@@ -18,7 +18,7 @@ I'm currently a Game Developer at **Izyplay Game Studio**. I work mostly with Un
 <br>
 <div align="center">
   
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcscout&show_icons=true&include_all_commits=true&theme=moltack&hide_border=true" alt="lcscout's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@lcscout&range=last_year&layout=compact&theme=moltack&custom_title=Lucas%20Coutinho's%20WakaTime%20Stats" alt="lcscout's yearly wakatime stats" /> |
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcscout&show_icons=true&include_all_commits=true&theme=moltack&hide_border=true" alt="lcscout's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@lcscout&range=last_year&layout=compact&theme=moltack&custom_title=Lucas%20Coutinho's%20Yearly%20WakaTime%20Stats" alt="lcscout's yearly wakatime stats" /> |
   | ------------- | ------------- |
   
 </div>
