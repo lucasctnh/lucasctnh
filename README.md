@@ -1,4 +1,4 @@
-<h1>Hi there 👋 I'm <a href="https://lucascoutinho.me/">Lucas</a> </h1>
+<h1>Hi there 👋 I'm Lucas </h1>
 
 <img align="right" src="https://i.gifer.com/origin/60/60120cc1d020a156a8401a3a2db12c4d.gif" />
 <a href="https://www.linkedin.com/in/lcscout/"><img src="https://img.shields.io/badge/-LinkedIn-e5dad4?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/lcscout/"></a>
@@ -7,7 +7,7 @@
 
 I'm currently a Game Developer at **Izyplay Game Studio**. I work mostly with Unity but I love to learn everything related to game dev. I'm very interested in render pipelines, shaders, software architecture and game optimizations.
 
-> Read more about my projects <a href="https://lucascoutinho.me/portfolio">on my page</a>.
+> Read more about my projects <a href="https://lucascoutinho.me/">on my page</a>.
 
 <h2>⚡️ Currently:</h2>
 <ul>
