@@ -1,6 +1,6 @@
 <h1>Hi there 👋 I'm Lucas </h1>
 
-<img align="right" src="https://i.gifer.com/origin/60/60120cc1d020a156a8401a3a2db12c4d.gif" />
+<img align="right" style="width:450px;height:300px;" src="https://i.gifer.com/origin/60/60120cc1d020a156a8401a3a2db12c4d.gif" />
 <a href="https://www.linkedin.com/in/lcscout/"><img src="https://img.shields.io/badge/-LinkedIn-e5dad4?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/lcscout/"></a>
 <a href="https://telegram.me/lcscout/"><img src="https://img.shields.io/badge/-Telegram-f5e1c0?style=for-the-badge&logo=telegram&logoColor=black&link=https://telegram.me/lcscout/"></a>
 <a href="mailto:contact@lucascoutinho.me"><img src="https://img.shields.io/badge/-Mail-d2b59f?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:lcscoutinho@outlook.com"></a>
