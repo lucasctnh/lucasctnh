@@ -4,7 +4,7 @@
 
 i am currently a game programmer at **Izyplay Game Studio**. I work mostly with Unity but I love to learn everything related to game dev. I'm very interested in render pipelines, shaders, software architecture and game optimizations.
 
-> You can find me here:
+> you can find me here:
 
 <a href="https://lucasctnh.com"><img src="https://img.shields.io/badge/-Site-e5dad4?style=for-the-badge&logo=Notion&logoColor=black&link=https://lucasctnh.com"></a>
 <a href="https://www.linkedin.com/in/lcscout/"><img src="https://img.shields.io/badge/-LinkedIn-f5ead9?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/lucasctnh/"></a>
