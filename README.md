@@ -2,7 +2,7 @@
 
 <img align="right" style="width:450px;height:300px;" src="https://i.gifer.com/origin/60/60120cc1d020a156a8401a3a2db12c4d.gif" />
 
-i am currently a game programmer at **Izyplay Game Studio**. I work mostly with Unity but I love to learn everything related to game dev. I'm very interested in render pipelines, shaders, software architecture and game optimizations.
+i am currently a game programmer at **Izyplay Game Studio**. I work mostly with Unity but I love to learn everything related to game dev. I'm very interested in render pipelines, shaders, software architecture and game optimizations
 
 > you can find me here:
 
