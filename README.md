@@ -15,7 +15,7 @@ i am currently working as game programmer at **Izyplay Game Studio**. I work mos
 <ul>
 <li>currently doing a bachelor's degree in Digital Games at PUC Minas</li>
 <li>learning about <strong>Unity tooling</strong>, and <strong>game programming patterns</strong></li>
-<li>and creating a rpg, auto-battler, multiplayer, strategy game 👀</li>
+<!-- <li>and creating a rpg, auto-battler, multiplayer, strategy game 👀</li> -->
 </ul>
 
 <br>
