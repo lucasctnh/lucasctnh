@@ -1,20 +1,21 @@
-<h1>hi there 👋 i'm lucas </h1>
+<h1>hi there 👋 i'm Lucas </h1>
 
 <img align="right" style="width:450px;height:300px;" src="https://i.gifer.com/origin/60/60120cc1d020a156a8401a3a2db12c4d.gif" />
 
-i am currently a game programmer at **Izyplay Game Studio**. I work mostly with Unity but I love to learn everything related to game dev. I'm very interested in render pipelines, shaders, software architecture and game optimizations
+i am currently working as game programmer at **Izyplay Game Studio**. I work mostly with Unity but I love to learn everything related to game dev. I'm very interested in render pipelines, shaders, software architecture and game optimizations
 
 > you can find me here:
 
 <a href="https://lucasctnh.com"><img src="https://img.shields.io/badge/-Site-e5dad4?style=for-the-badge&logo=Notion&logoColor=black&link=https://lucasctnh.com"></a>
-<a href="https://www.linkedin.com/in/lcscout/"><img src="https://img.shields.io/badge/-LinkedIn-f5ead9?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/lucasctnh/"></a>
+<a href="https://www.linkedin.com/in/lucasctnh/"><img src="https://img.shields.io/badge/-LinkedIn-f5ead9?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/lucasctnh/"></a>
 <a href="mailto:lucasctnh@hotmail.com"><img src="https://img.shields.io/badge/-Mail-f5e1c0?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:lucasctnh@hotmail.com"></a>
 <a href="https://lucasctnh.itch.io/"><img src="https://img.shields.io/badge/-Itch.io-d2b59f?style=for-the-badge&logo=itch.io&logoColor=black&link=https://lucasctnh.itch.io/"></a>
 
-<h2>⚡️ currently:</h2>
+<!-- <h3>⚡️ currently:</h3> -->
 <ul>
-<li>doing a bachelor's degree in Digital Games at PUC Minas</li>
+<li>currently doing a bachelor's degree in Digital Games at PUC Minas</li>
 <li>learning about <strong>Unity tooling</strong>, and <strong>game programming patterns</strong></li>
+<li>and creating a rpg, auto-battler, multiplayer, strategy game 👀</li>
 </ul>
 
 <br>
