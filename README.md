@@ -6,7 +6,7 @@ I work as a game programmer at **Izyplay Game Studio**. Most of the time I'm usi
 
 > you can find me here:
 
-<a href="https://lucasctnh.com"><img src="https://img.shields.io/badge/-Site-e5dad4?style=for-the-badge&logo=Notion&logoColor=black&link=https://lucasctnh.com"></a>
+<a href="https://lucascoutinho.dev"><img src="https://img.shields.io/badge/-Site-e5dad4?style=for-the-badge&logo=Google%20Chrome&logoColor=black&link=https://lucascoutinho.dev"></a>
 <a href="https://www.linkedin.com/in/lucasctnh/"><img src="https://img.shields.io/badge/-LinkedIn-f5ead9?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/lucasctnh/"></a>
 <a href="mailto:lucasctnh@hotmail.com"><img src="https://img.shields.io/badge/-Mail-f5e1c0?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:lucasctnh@hotmail.com"></a>
 <a href="https://lucasctnh.itch.io/"><img src="https://img.shields.io/badge/-Itch.io-d2b59f?style=for-the-badge&logo=itch.io&logoColor=black&link=https://lucasctnh.itch.io/"></a>
