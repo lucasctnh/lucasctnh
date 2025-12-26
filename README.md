@@ -21,7 +21,7 @@ I work as a game programmer at **Izyplay Game Studio**. Most of the time I'm usi
 <br>
 <div align="center">
   
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasctnh&show_icons=true&include_all_commits=true&theme=moltack&hide_border=true&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="lucasctnh's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@lucasctnh&range=last_year&layout=compact&theme=moltack&custom_title=lucas%20coutinho's%20Yearly%20WakaTime%20Stats" alt="lucasctnh's yearly wakatime stats" /> |
+  | <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=lucasctnh&show_icons=true&include_all_commits=true&theme=moltack&hide_border=true&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="lucasctnh's github stats" /> | <img align="center" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=@lucasctnh&range=last_year&layout=compact&theme=moltack&custom_title=lucas%20coutinho's%20Yearly%20WakaTime%20Stats" alt="lucasctnh's yearly wakatime stats" /> |
   | ------------- | ------------- |
   
 </div>
